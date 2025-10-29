@@ -1,7 +1,0 @@
-{
-  "name": "NorthernWinter Operator",
-  "website": "",
-  "description": "Independent operator running EigenLayer / Brevis infra on dedicated bare metal. Low-latency local RPC, self-hosted hardware.",
-  "logo": "https://raw.githubusercontent.com/NorthernWinter/operator/main/jBtOMXEE_400x400.png",
-  "twitter": ""
-}
