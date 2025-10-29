@@ -1,0 +1,7 @@
+{
+  "name": "NorthernWinter Operator",
+  "website": "",
+  "description": "Independent operator running EigenLayer/Brevis infra on dedicated bare metal.",
+  "logo": "https://raw.githubusercontent.com/NorthernWinter/operator/main/logo.png",
+  "twitter": ""
+}
